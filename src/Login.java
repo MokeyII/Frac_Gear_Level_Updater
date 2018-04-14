@@ -24,7 +24,7 @@ public class Login {
                 Uname = txtUsername.getText();
                 PWD = pwdPassword.toString();
 
-                if (Uname == "FUCKJAVA" && PWD == "FUCKME")
+                if (Uname == "FKJAVA" && PWD == "FKME")
                 {
                    JOptionPane.showMessageDialog(null, "This Seems to be working!!!");
                 }
