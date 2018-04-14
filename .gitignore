@@ -1,0 +1,9 @@
+# Properties #
+######################
+*.properties
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
